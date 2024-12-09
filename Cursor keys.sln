@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cursor keys", "Cursor keys\Cursor keys.vcxproj", "{322AD3C6-80F8-4E7A-94AE-F6C631F715D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{322AD3C6-80F8-4E7A-94AE-F6C631F715D7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{322AD3C6-80F8-4E7A-94AE-F6C631F715D7}.Debug|Win32.Build.0 = Debug|Win32
+		{322AD3C6-80F8-4E7A-94AE-F6C631F715D7}.Release|Win32.ActiveCfg = Release|Win32
+		{322AD3C6-80F8-4E7A-94AE-F6C631F715D7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC832460-AF3D-406F-964A-D6031BBBF300}
+	EndGlobalSection
+EndGlobal
